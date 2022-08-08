@@ -12,5 +12,9 @@ header{
     color: rgb(161, 75, 5);
 }
 
-
+h1{
+    text-align: center;
+    margin: 10px 0px;
+    color: rgb(78, 43, 2);
+}
 
