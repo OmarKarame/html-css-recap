@@ -14,7 +14,39 @@ header{
 
 h1{
     text-align: center;
-    margin: 10px 0px;
-    color: rgb(78, 43, 2);
+    margin-bottom: 10px;
+    color: rgb(95, 51, 1);
 }
 
+section{
+    margin: 0% 35%;
+}
+
+input{
+    border: 5px solid rgb(161, 75, 5);
+    width: 275px;
+    height: 20px;
+    border-radius: 10px;
+    margin: 30px auto;
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+    margin: 20px  0px;
+    padding: 10px 0px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
+li{
+    margin: 5px 0px;
+}
+
+footer{
+    text-align: center;
+}
+
+h2{
+    margin: 50px 0px;
+}
